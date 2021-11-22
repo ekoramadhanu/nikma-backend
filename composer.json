@@ -1,0 +1,14 @@
+{
+    "name": "eko/monitoring_skripsi",
+    "description": "api monitoring skripsi",
+    "authors": [
+        {
+            "name": "ekoramadhanu",
+            "email": "ekorama97@student.ub.ac.id"
+        }
+    ],
+    "require": {
+        "mikecao/flight": "^1.3",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
